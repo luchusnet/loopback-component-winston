@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/kolach/loopback-component-winston.git"
+    "url": "https://github.com/luchusnet/loopback-component-winston.git"
   },
   "keywords": [
     "loopback",
@@ -21,12 +21,12 @@
   "author": "Nick Chistyakov",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kolach/loopback-component-winston/issues"
+    "url": "https://github.com/luchusnet/loopback-component-winston/issues"
   },
-  "homepage": "https://github.com/kolach/loopback-component-winston#readme",
+  "homepage": "https://github.com/luchusnet/loopback-component-winston#readme",
   "dependencies": {
     "lodash": "^4.11.1",
-    "winston": "^2.2.0"
+    "winston": "^2.4.0"
   },
   "devDependencies": {
     "chai": "^3.5.0",
