@@ -1,5 +1,5 @@
 {
-  "name": "loopback-component-winston",
+  "name": "loopback-component-winston2loggers",
   "version": "0.0.3",
   "description": "Winston logger component for loopback",
   "main": "index.js",
